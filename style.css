@@ -71,7 +71,8 @@ body {
 }
 
 .component__form-input {
-  all: unset;
+  /* all: unset; */
+  outline: none;
   box-sizing: border-box;
   display: block;
   width: 100%;
@@ -88,6 +89,10 @@ body {
 }
 
 .component__form-input:focus {
+  border: 3px solid #bbb;
+}
+
+.component__form-input::focus-visible {
   border: 3px solid #bbb;
 }
 
