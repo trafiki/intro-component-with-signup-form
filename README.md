@@ -1,4 +1,4 @@
-![Design preview for the Intro component with sign up form coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Intro component with sign up form coding challenge](https://res.cloudinary.com/dz209s6jk/image/upload/q_auto:good,w_900/Challenges/cbyamvcsyhwlvnlelr5n.jpg)
 
 This is a solution to the [Intro component with sign up form challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/intro-component-with-signup-form-5cf91bd49edda32581d28fd1). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -44,8 +44,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github Page](https://trafiki.github.io/intro-component-with-signup-form/)
 
 ## My process
 
@@ -101,9 +100,9 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@trafiki](https://www.frontendmentor.io/profile/trafiki)
+- Twitter - [@babsake](https://www.twitter.com/babsake)
+- Linkedin - [Babatunde Akerele](https://www.linkedin.com/in/babatunde-akerele/)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
